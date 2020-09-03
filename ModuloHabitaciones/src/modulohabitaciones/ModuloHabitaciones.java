@@ -16,7 +16,7 @@ public class ModuloHabitaciones {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Modulo Habitaciones subido");
+        System.out.println("Modulo Habitaciones ya subido");
     }
     
 }
