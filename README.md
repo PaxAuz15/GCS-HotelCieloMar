@@ -11,8 +11,3 @@ y insercion de datos. <br />
 1. Crear la base de datos con el nombre  **HotelCieloMar** 
 2. Abrir el script desde  sqlserve y ejecutar   
 
-> # Como ejecutar el proyecto
-1. Clonar el repositorio 
-2. Abir el proyecto desde el Netbeans
-3. Importar la libreria de conexion **sqldbc42.sql**  
-4. Ejecutar el proyecto 
