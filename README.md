@@ -11,3 +11,10 @@ y insercion de datos. <br />
 1. Crear la base de datos con el nombre  **HotelCieloMar** 
 2. Abrir el script desde  sqlserve y ejecutar   
 
+># Como ejecutar el proyecto
+1. Clonarlo 
+2. Abrirlo desde el netbeans 
+3. Importar la libreria de conexion
+4. Ejecutar
+
+
