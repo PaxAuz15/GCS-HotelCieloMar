@@ -45,8 +45,8 @@ public class frminicio extends javax.swing.JFrame {
         int valor = JOptionPane.showConfirmDialog(this,"ESTA SEGURO DE SALIR DE LA APLICACION","ADVERTENCIA",JOptionPane.YES_NO_OPTION);
         if (valor == JOptionPane.YES_OPTION){
             dispose();
-            frmusuariologin obj = new frmusuariologin();
-            obj.setVisible(true);
+            //frmusuariologin obj = new frmusuariologin();
+            //obj.setVisible(true);
         }
     }
 
